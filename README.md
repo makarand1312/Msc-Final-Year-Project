@@ -16,7 +16,7 @@ Statistical Analysis, Oil Pumps, Automobiles, Performance Optimization, Maintena
 Strategies, Efficiency Improvement, Automotive Engineering, Oil Pump Management
 
 ## Objectives :
-To check whether the Manufacturing Process is working consistently or
+- To check whether the Manufacturing Process is working consistently or
 not.
-To determine no. of defective variables among three variables.
-To study the performance of the process based on various control charts.
+- To determine no. of defective variables among three variables.
+- To study the performance of the process based on various control charts.
